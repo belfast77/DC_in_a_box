@@ -3,7 +3,7 @@
 Im building a portable datacenter in a box as I always wanted an Canonical Orange Box* but couldn't afford the £8k price tag.
 
 
-[alt text](https://pbs.twimg.com/media/ENBzpyxWoAA1lvw?format=png&name=small "DC spec screenshot")
+![alt text](https://pbs.twimg.com/media/ENBzpyxWoAA1lvw?format=png&name=small "DC spec screenshot")
 
 ## Components
 Keter 221474 Technicians Tool Box
