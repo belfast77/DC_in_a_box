@@ -3,10 +3,9 @@
 Im building a portable datacenter in a box as I always wanted an Canonical Orange Box* but couldn't afford the £8k price tag.
 
 
-![alt text](https://twitter.com/TheKernelPanics/status/1225179148978675712/photo/1 "DC in a Box")
-![alt text](https://twitter.com/TheKernelPanics/status/1225179148978675712/photo/2 "DC in a Box")
-![alt text](https://twitter.com/TheKernelPanics/status/1225179148978675712/photo/3 "DC in a Box")
-![alt text](https://twitter.com/TheKernelPanics/status/1225179148978675712/photo/4 "DC in a Box")
+![alt text](https://pbs.twimg.com/media/EQC15pWWoAAClq5?format=jpg&name=small "DC in a Box")
+![alt text](https://pbs.twimg.com/media/EQC16YZXUAQu6lQ?format=jpg&name=small "DC in a Box")
+![alt text](https://pbs.twimg.com/media/EQC173DW4AMikQW?format=jpg&name=small "DC in a Box")
 ![alt text](https://pbs.twimg.com/media/ENBzpyxWoAA1lvw?format=png&name=small "DC spec screenshot")
 
 
