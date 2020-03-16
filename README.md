@@ -36,6 +36,8 @@ VMware vRealize Log Insight 4.7.0 - Virtual Appliance via vCenter Server
 
 Ansible AWX - Release 9.1.0
 
+Puppet Enterprise - 2019.4
+
 Katello - Version 1.21.0-RC5
 
 
