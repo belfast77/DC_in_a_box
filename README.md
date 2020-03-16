@@ -21,7 +21,7 @@ https://www.amazon.co.uk/gp/product/B01132G822/ref=ppx_yo_dt_b_search_asin_title
 2 X Intel SKULL CANYON i7 Gaming NUC NUC6I7KYK Barebone Kit
 https://www.amazon.co.uk/gp/product/B01FWIUZ7W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
-2 X Samsung MZ-V7E500BW 970 EVO 500 GB V-NAND M.2 PCI Express Solid State Drive 
+4 X Samsung MZ-V7E500BW 970 EVO 500 GB V-NAND M.2 PCI Express Solid State Drive 
 https://www.amazon.co.uk/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 2 X Crucial CT2K16G4SFD8266 32 GB Kit (16 GB x2) (DDR4, 2666 MT/s, PC4-21300, Dual Rank x8, SODIMM, 260-Pin)
