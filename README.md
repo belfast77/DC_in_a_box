@@ -2,12 +2,15 @@
 
 Im building a portable datacenter in a box as I always wanted an Canonical Orange Box* but couldn't afford the £8k price tag.
 
-
+### Whats inside the Box
 ![alt text](https://pbs.twimg.com/media/EQC15pWWoAAClq5?format=jpg&name=small "DC in a Box")
 ![alt text](https://pbs.twimg.com/media/EQC16YZXUAQu6lQ?format=jpg&name=small "DC in a Box")
 ![alt text](https://pbs.twimg.com/media/ETJJsCOXsAUMb92?format=jpg&name=small "DC in a Box")
+### Hardware Layout
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/Hardware.png)
+### vCenter 
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/Screenshot%20from%202020-07-04%2015-25-22.png)
+### VMs
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/DC_IN_A_BOX.PNG)
 
 
