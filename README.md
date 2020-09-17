@@ -35,8 +35,8 @@ https://www.amazon.co.uk/gp/css/summary/edit.html/ref=dp_iou_view_this_order?ie=
 
 ```
 4 x Samsung 970 EVO Plus 500 GB PCIe NVMe M.2 (2280) Internal Solid State Drive (SSD) (MZ-V7S500) | £102.42 = £409.68
-2 x Crucial CT2K32G4SFD8266 64 GB Kit (32 GB x 2) (DDR4, 2666 MHz, SODIMM, 260-Pin, 1.2 V, CL19) Memory |  	£279.24 =  £558.48
-2 x Intel BOXNUC6i7KYK3 i7-6770HQ NUC Kit |  £556.87 = £1,113.74
+2 x Crucial CT2K32G4SFD8266 64 GB Kit (32 GB x 2) (DDR4, 2666 MHz, SODIMM, 260-Pin, 1.2 V, CL19) Memory | £279.24 = £558.48
+2 x Intel BOXNUC6i7KYK3 i7-6770HQ NUC Kit | £556.87 = £1,113.74
 1 x Keter 221474 Technicians Tool Box £32.07 
 1 x NETGEAR GS308 8-Port Desktop Gigabit Ethernet Switch | £19.49
 1 x GL.iNet GL-AR300M (Shadow) Mini VPN Travel Router | £35.90
