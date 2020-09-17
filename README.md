@@ -18,8 +18,8 @@ Im building a portable datacenter in a box as I always wanted an Canonical Orang
 Keter 221474 Technicians Tool Box
 https://www.amazon.co.uk/gp/product/B00PC5EO28/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
-TP-Link TL-SG1008D 8-Port Desktop Gigabit Ethernet Switch
-https://www.amazon.co.uk/gp/product/B01132G822/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+NETGEAR GS308 8-Port Gigabit Ethernet Network Switch
+https://www.amazon.co.uk/gp/product/B07PWHGQSS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 2 X Intel SKULL CANYON i7 Gaming NUC NUC6I7KYK Barebone Kit
 https://www.amazon.co.uk/gp/product/B01FWIUZ7W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
@@ -30,6 +30,30 @@ https://www.amazon.co.uk/gp/product/B07CGGP7SV/ref=ppx_yo_dt_b_search_asin_title
 2 X Crucial CT2K16G4SFD8266 32 GB Kit (16 GB x2) (DDR4, 2666 MT/s, PC4-21300, Dual Rank x8, SODIMM, 260-Pin)
 https://www.amazon.co.uk/gp/product/B071H38422/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+GL.iNet GL-AR300M (Shadow) Mini VPN Travel Router
+https://www.amazon.co.uk/gp/css/summary/edit.html/ref=dp_iou_view_this_order?ie=UTF8&orderID=026-8293968-0693919
+
+```
+4 x Samsung 970 EVO Plus 500 GB PCIe NVMe M.2 (2280) Internal Solid State Drive (SSD) (MZ-V7S500) | £102.42 = £409.68
+2 x Crucial CT2K32G4SFD8266 64 GB Kit (32 GB x 2) (DDR4, 2666 MHz, SODIMM, 260-Pin, 1.2 V, CL19) Memory |  	£279.24 =  £558.48
+2 x Intel BOXNUC6i7KYK3 i7-6770HQ NUC Kit |  £556.87 = £1,113.74
+1 x  Keter 221474 Technicians Tool Box £32.07 
+1 x TP-Link TL-SG1008D 8-Port Desktop Gigabit Ethernet Switch | £19.49
+1 x GL.iNet GL-AR300M (Shadow) Mini VPN Travel Router | £35.90
+
+Total = £2,169.36
+
+3 x Official Raspberry Pi 4 USB-C PSU | £11.98 = £35.94
+3 x RPI4-MODBP-4GB RASPBERRY PI 4 MODEL B, 4GB | £43.31 = £155.88
+3 x TSRASPI10-16G.. MICROSD CARD, RASPBERRY PI BOARD | £25.65 = £76.96
+
+Total = £309.80
+
+Lenovo ThinkPad P53 Core i7-9750H 16GB 512GB SSD 15.6 Inch FHD Quadro T1000 4GB Windows 10 Pro Workstation Laptop | £1299.96 
+2 x Crucial CT2K16G4SFD8266 32 GB Kit (16 GB x 2) (DDR4, 2666 MT/s, PC4-21300, Dual Rank x 8, SODIMM, 260-Pin) Memory |	£129.59 = £259.18
+
+Total = £4,038.3
+```
 ## Software
 VMware vSphere Hypervisor 6.7
 
