@@ -1,3 +1,6 @@
+
+
+```
 PS E:\ISOs\esxi>  Add-EsxSoftwareDepot ".\VMware-ESXi-7.0U2a-17867351-depot.zip"
 
 Depot Url
@@ -43,3 +46,4 @@ ESXi-ThinkCentre               Cowlan.co.uk    11/12/2021 1... PartnerSupported
 
 PS E:\ISOs\esxi> Export-ESXImageProfile -ImageProfile "ESXi-ThinkCentre" -ExportToISO -filepath ESXi-7.0U2a-17867351-ThinkCentre.iso
 
+```
