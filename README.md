@@ -71,14 +71,15 @@ Katello - Version 1.21.0-RC5
 
 Upgraded the portable Lab with a Lenovo ThinkCentre M90q Tiny Core i9-10900T 64GB DDR4 & 1 TB M.2 NVMe. It's enough to run an installer-provisioned infrastructure cluster of #OpenShift on #vSphere7.
 
-New Layout
+### New Layout
+
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade1.PNG)
 
 
-Lenovo ThinkCentre M90q Tiny Core i9-10900T
+### Lenovo ThinkCentre M90q Tiny Core i9-10900T
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade2.PNG)
 
-CPU & Memory
+### CPU & Memory
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade3.PNG)
 
 
