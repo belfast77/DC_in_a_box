@@ -6,10 +6,12 @@ Im building a portable datacenter in a box as I always wanted an Canonical Orang
 ![alt text](https://pbs.twimg.com/media/EQC15pWWoAAClq5?format=jpg&name=small "DC in a Box")
 ![alt text](https://pbs.twimg.com/media/EQC16YZXUAQu6lQ?format=jpg&name=small "DC in a Box")
 ![alt text](https://pbs.twimg.com/media/ETJJsCOXsAUMb92?format=jpg&name=small "DC in a Box")
+![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade1.PNG)
+![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade2.PNG)
 ### Hardware Layout
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/Hardware.png)
 ### vCenter 
-![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/Capture1.PNG)
+![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/BoxUpgrade3.PNG)
 ### VMs
 ![alt text](https://raw.githubusercontent.com/belfast77/DC_in_a_box/master/images/DC_IN_A_BOX.PNG)
 
