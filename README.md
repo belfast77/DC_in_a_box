@@ -65,8 +65,8 @@ Total = £309.80
 
 Laptop
 ------
-Lenovo ThinkPad P53 Core i7-9750H 48GB 1TB SSDNVMe M.2, 15.6 Inch Screen FHD, Quadro T1000 4GB Windows 10 Pro Workstation Laptop | £1299.96 
-2 x Crucial CT2K16G4SFD8266 32 GB Kit (16 GB x 2) (DDR4, 2666 MT/s, PC4-21300, Dual Rank x 8, SODIMM, 260-Pin) Memory |	£129.59 = £259.18
+Lenovo ThinkPad P53 Core i7-9750H, 48GB Ram, 1TB NVMe M.2 SSD, 15.6 Screen, Quadro T1000 4GB, Laptop | £1299.96 
+2 x Crucial CT2K16G4SFD8266 32 GB Kit (16 GB x 2) (DDR4, 2666 MT/s, SODIMM) |	£129.59 = £259.18
 
 Total = £1,559.14
 
