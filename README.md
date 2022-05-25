@@ -36,7 +36,7 @@ GL.iNet GL-AR300M (Shadow) Mini VPN Travel Router
 https://www.amazon.co.uk/gp/css/summary/edit.html/ref=dp_iou_view_this_order?ie=UTF8&orderID=026-8293968-0693919
 
 ```
-Servers = 2 x Intel NUC ESXi Hosts
+Servers : 2 x Intel NUC ESXi Hosts
 ---------------------------------
 4 x Samsung 970 EVO Plus 500 GB PCIe NVMe M.2 (SSD)| £102.42 = £409.68
 2 x Crucial CT2K32G4SFD8266 64 GB Kit (32 GB x 2) (DDR4, 2666 MHz, SODIMM) Memory | £279.24 = £558.48
@@ -47,7 +47,7 @@ Servers = 2 x Intel NUC ESXi Hosts
 
 Total = £2,169.36
 
-Server ESXi Hosts
+Servers : ThinkCentre ESXi Hosts
 ------
 Lenovo ThinkCentre M90q Tiny Core i9-10900T  | £1089.96
 Crucial RAM CT2K32G4SFD8266 64GB Kit (2x32GB) DDR4 | £266.39
